@@ -23,7 +23,7 @@ bot.on('message', message => {
                 .setURL('http://yellowangels.ga/')
                 .setThumbnail('https://media.discordapp.net/attachments/645358239663259692/648080045465796618/logo.png?width=566&height=566')
                 .setDescription('Ez itt a Yellow Angels cég hivatalos Discord botja.')
-                .addField('Elérhető parancsok:', '/weboldal \n /dicord \n /truckersmp \n /vtlog \n /partnerek \n /facebook \n /instagram', true)
+                .addField('Elérhető parancsok:', '/weboldal \n /discord \n /truckersmp \n /vtlog \n /partnerek \n /facebook \n /instagram', true)
                 .setFooter('Yellow Angels developer team');
             message.channel.sendEmbed(embed);
             break;
