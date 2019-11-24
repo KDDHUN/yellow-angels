@@ -40,7 +40,7 @@ bot.on('message', message => {
             message.channel.sendMessage('https://6506.vtlog.net/')
             break;
         case 'partnerek':
-            message.channel.sendMessage('**Truckin Radio: http://truckinradio.ml/** \n **SCS Hungary: https://www.facebook.com/SCS-Hungary-100249714769658/**')
+            message.channel.sendMessage('**Truckin Radio: http://truckinradio.ml/** \n **SCS Hungary: https://www.facebook.com/scshungary/**')
             break;
         case 'facebook':
             message.channel.sendMessage('https://www.facebook.com/YellowAngelsVTC/')
