@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const PREFIX = 47;
+const PREFIX = "/";
 
 var version = '0.0.5';
 
